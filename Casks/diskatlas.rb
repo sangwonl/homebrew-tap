@@ -1,8 +1,8 @@
 cask "diskatlas" do
-  version "0.2.2"
-  sha256 "04fd695d23fd4fc50b3069177263b398926b261082d18ef99d9f724753c0f349"
+  version "0.3.0"
+  sha256 "9056000d4c7a7302b7301234295f06c14ce97cb1aa34393ffe091fc31cd31b20"
 
-  url "https://github.com/sangwonl/diskatlas/releases/download/v0.2.2/DiskAtlas-0.2.2-macOS-universal.dmg"
+  url "https://github.com/sangwonl/diskatlas/releases/download/v0.3.0/DiskAtlas-0.3.0-macOS-universal.dmg"
   name "DiskAtlas"
   desc "Interactive map for exploring disk usage"
   homepage "https://github.com/sangwonl/diskatlas"
